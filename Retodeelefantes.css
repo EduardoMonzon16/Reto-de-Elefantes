@@ -1,0 +1,21 @@
+* {
+    font-family: 'Zen Dots', cursive;
+}
+
+body {
+    background-color: rgb(13, 0, 56);
+    text-align: left;
+}
+
+h1 {
+   color:rgb(38, 255, 0);
+}
+
+p {
+    color : rgb(255, 238, 0);
+    display : inline;
+}
+
+strong {
+    color: rgb(0, 204, 255);
+}
